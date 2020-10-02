@@ -2,7 +2,7 @@ discord.py
 asyncio
 bs4
 datetime
-re
+
 Request
 warnings
 json
