@@ -2,7 +2,6 @@ discord.py
 asyncio
 bs4
 datetime
-unicodedate
 requests
 tqdm
 HTTPError
