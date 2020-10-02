@@ -1,1 +1,1 @@
-woker: main.py
+woker: python main.py
