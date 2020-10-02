@@ -1,0 +1,17 @@
+discord.py
+asyncio
+bs4
+urllib
+datetime
+random
+re
+Request
+warnings
+json
+unicodedate
+requests
+tqdm
+HTTPError
+URLError
+commands
+quote
