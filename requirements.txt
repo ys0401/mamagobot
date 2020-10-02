@@ -3,5 +3,5 @@ asyncio
 bs4
 datetime
 requests
-tqd
+tqdm
 quote
