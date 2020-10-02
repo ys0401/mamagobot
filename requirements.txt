@@ -4,7 +4,5 @@ bs4
 datetime
 requests
 tqdm
-HTTPError
-URLError
 commands
 quote
